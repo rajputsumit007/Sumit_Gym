@@ -1,2 +1,2 @@
 # Sumit_Gym
-This is my gym website ...💪
+Created an interactive and visually appealing gym website using HTML and CSS to enhance my web development skills. The website features my own photos and branding under the name "Sumit Gym", showcasing a personalized and professional design. It includes a clean layout, engaging visuals, and user-friendly navigation to provide visitors with a seamless browsing experience. This project helped me gain deeper knowledge of front-end development, responsive design, and creative website styling.
